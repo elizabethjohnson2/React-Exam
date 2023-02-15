@@ -55,8 +55,9 @@ import styled from "styled-components";
             <Leftcontainer>
                 <TagContainer>
                     <TagName>a</TagName>
+                    <Heading>arifeen</Heading>
                 </TagContainer>
-                <Heading>arifeen</Heading>
+                
                 <ListTagItem>
                     {renderTags}
                 </ListTagItem>
@@ -102,24 +103,32 @@ import styled from "styled-components";
    
     `;
       const Leftcontainer=styled.div`
-      width:11%;
+      width:20%;
       height:500px;
       background-color:#1B1C30;
+      padding-left:20px;
       `;
-      const TagContainer=styled.div``;
+      const TagContainer=styled.div`
+      display:flex;
+      `;
       const TagName=styled.button`
-      background-color:#84E9F4;
-      margin-top:20px;
-      border-radius: 30%;`;
-      const Heading=styled.h1``;
+    background-color: #84E9F4;
+    margin-top: 30px;
+    border-radius: 30%;
+    margin-left: 20px;
+    width:30px;
+    height: 35px;
+    `;
+      const Heading=styled.h1`
+      margin-left: 20px;
+      font-size: 38px;
+      `;
       const ListTagItem=styled.div``;
       const LinkTag=styled.div``;
       const LinkImage=styled.img``;
       const LinkName=styled.p``;
     const HeaderContainer=styled.div`
     width:80%;
-    
-   
     display:flex;
     justify-content:space-between;
     margin-left:10%;
@@ -138,7 +147,7 @@ import styled from "styled-components";
     border-bottom:3px solid #000;
     `;
     const LogoImage=styled.img`
-         width: 5%;
+     width: 5%;
     display: block;
     margin-right: 445px;
     margin-bottom: 393px;
@@ -147,7 +156,6 @@ import styled from "styled-components";
    `;
    const ImageTag=styled.div`
    display:flex;
- 
    margin:0 auto;
   
    `;
