@@ -36,3 +36,85 @@
     transform: rotate(360deg);
   }
 }
+
+
+@font-face {
+  font-family: 'dm_sansbold';
+  src: url('dmsans-bold-webfont.woff2') format('woff2'),
+       url('dmsans-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'dm_sansbold_italic';
+  src: url('dmsans-bolditalic-webfont.woff2') format('woff2'),
+       url('dmsans-bolditalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'dm_sansitalic';
+  src: url('dmsans-italic-webfont.woff2') format('woff2'),
+       url('dmsans-italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'dm_sansregular';
+  src: url('dmsans-regular-webfont.woff2') format('woff2'),
+       url('dmsans-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'quanticobold';
+  src: url('quantico-bold-webfont.woff2') format('woff2'),
+       url('quantico-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'quanticoitalic';
+  src: url('quantico-italic-webfont.woff2') format('woff2'),
+       url('quantico-italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'quanticoregular';
+  src: url('quantico-regular-webfont.woff2') format('woff2'),
+       url('quantico-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}

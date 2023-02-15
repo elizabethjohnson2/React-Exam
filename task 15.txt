@@ -1,0 +1,21 @@
+Font Family :DM Sans
+link:https://fonts.google.com/specimen/DM+Sans
+Font Family :Quantico
+link:https://fonts.google.com/specimen/Quantico
+
+Colours -
+Black:212236
+Black-2:1B1C30
+blue:84E9F4
+dark blue:3935AB
+violet:51459F
+violet-2:7974B3
+white:FFFFFF
+orange:FB896B
+orange-2:F77958
+F77958-3:DC4437
+grey:67636F
+grey-2:76758A
+grey-3:727488
+grey-4:727488
+yellow:FDBB64
